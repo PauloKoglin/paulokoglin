@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Koglin</h1>
 <h3 align="center">A passionate full-stack developer from the warn south of Brazil</h3>
 
-- 🔭 I’m currently working for **germann companies**
+- 🔭 I’m currently working for **german companies**
 
 - 📫 How to reach me **paulo.koglin@blucode-software.com**
 
